@@ -1,3 +1,4 @@
+
 # -AICTE-event-manegement-system
 AICTE event manegement system project
 Our main aim of this project is to automate the existing manual system with the help of fullfledged computer software.To provide an ideal software solution to bookevents , to manage
